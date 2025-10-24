@@ -44,13 +44,10 @@ Showcase your contributions and activity with these dynamic cards:
 
 ### ✨ Cherries on Top!
 
-#### **Typing Animation**
-Grab attention with a dynamic typing animation!
+
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=05d4f2&center=true&vCenter=true&width=435&lines=Building+responsive+websites.;Code+is+poetry.;Always+learning+new+tech.;Dedicated+Full+Stack+Developer.)
 
-#### **3D Contribution Graph**
-Make your contribution history visually stunning!
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oluwayomi78&theme=github_dark" alt="GitHub Profile Details" />
