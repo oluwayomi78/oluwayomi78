@@ -34,11 +34,12 @@ I'm a **dedicated Web Developer** specializing in creating **responsive and user
 
 Showcase your contributions and activity with these dynamic cards:
 
-#### **Main Stats**
+### 📊 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=oluwayomi78&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-#### **Top Languages**
+### 📌 Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwayomi78&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
